@@ -1,5 +1,5 @@
 ---
-title: Showcase
+title: "Case Study"
 description: "Docs websites powered by Hugo Blox."
 type: landing
 
@@ -8,7 +8,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Get Inspirated
+      title: Case Study
       text: 'Get inspired by exploring sites #MadeWithHugoBlox'
       primary_action:
         icon: brands/x

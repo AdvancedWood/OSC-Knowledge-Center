@@ -40,15 +40,15 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "Product"
           description: |
             Websites built  
             with Hugo Blox
-        - statistic: "10k+"
+        - statistic: "Process"
           description: |
             GitHub stars  
             since 2016
-        - statistic: "3k+"
+        - statistic: "People"
           description: |
             Discord community  
             for support
@@ -61,27 +61,27 @@ sections:
   - block: features
     id: features
     content:
-      title: Features
-      text: Collaborate, publish, and maintain technical knowledge with an all-in-one documentation site. Used by 100,000+ startups, enterprises, and researchers.
+      title: OSC knowledge domains
+      text: Our comprehensive suite of professional resources caters to diverse OSC knowledge domains, including OSC performance, OSC product, OSC processes, OSC resources and OSC project mangement.
       items:
-        - name: Optimized SEO
+        - name: OSC Value
           icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+          description: Why we adopt OSC?
+        - name: OSC Performance
           icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
+          description: Why we select a particular OSC solution?
+        - name: OSC Product
           icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
+          description: What are the OSC product structure and compositon?
+        - name: OSC Process
           icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
+          description: How to design, manufact, transport and assemble OSC products?
+        - name: OSC Resource
           icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
+          description: How do we use the resources to leverage the process?
+        - name: OSC Project Management
           icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+          description: How do we manage the OSC projects?
   - block: cta-card
     content:
       title: "Start Writing with the #1 Effortless Documentation Platform"

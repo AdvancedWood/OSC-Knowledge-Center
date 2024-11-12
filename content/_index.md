@@ -10,11 +10,11 @@ design:
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
-      text: The easy, no-code technical documentation solution your users will love 🎉
+      title: A Knowledge Platform for Offsite Construction (OSC)
+      text: Improving performance and collaboration for offsite construction through learning from projects and knowledge reuse by using an integrated open OSC knowledge base
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
+        text: About the project
+        url: https://oscknowledgenz.wordpress.com/about/
         icon: rocket-launch
       secondary_action:
         text: Read the docs

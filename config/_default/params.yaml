@@ -33,12 +33,12 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    align: "center"
+    align: "left"
     fixed_to_top: true
     logo:
-      text: "Knowledge Center for Offsite Built NZ"
+      text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.png"
+      filename: "logo.svg"
     button:
       enable: true
       text: "Get Started"

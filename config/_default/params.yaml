@@ -36,9 +36,9 @@ header:
     align: "center"
     fixed_to_top: true
     logo:
-      text: ""
+      text: "Knowledge Center for Offsite Built NZ"
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "logo.png"
     button:
       enable: true
       text: "Get Started"

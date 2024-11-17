@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "OSC Knowledge Centre" # Website name
-baseURL: 'https://example.com/' # Website URL
+title: "OSC-Knowledge-Center" # Website name
+baseURL: 'https://github.com/AdvancedWood/OSC-Knowledge-Center.git/' # Website URL
 
 ############################
 ## PAGE OPTIONS

@@ -8,7 +8,7 @@ weight: 1
 
 The OSC Knowledge Base Platform is a web-based application. The platform is for managing offsite construction (OSC) knowledge in the form of knowledge container. The application URI is XXX. This guideline is developed for general users who only use the service of the platform and knowledge managers who are responded to capture OSC knowledge content, construct and configure it into a knowledge unit, and upload the knowledge unit to the platform as a knowledge container.
 
-![use_cases.png](../img/use_cases.png)
+![use_cases.png](../guide/img/use_cases.png)
 
 Each of these use cases are described in the following sections.
 
@@ -18,31 +18,31 @@ Each of these use cases are described in the following sections.
 
 - Use “Register” button in the homepage to sign up.
 
-![register.png](../img/register.png)
+![register.png](../guide/img/register.png)
 
 - To register you have to put in an email address, a username and a password.
 The username has to be 150 characters or fewer using letters, digits and @/./+/-/_ only. The
 password must have at least 8 characters and cannot be too similar to your other personal information. The password also cannot be a commonly used password or entirely numeric. Enter the same password as before, for verification.
 
-![sign_up.png](../img/sign_up.png)
+![sign_up.png](../guide/img/sign_up.png)
 
 ### Login
 
 - After activating the account, you can log in using the username and password priorly chosen.
 - Use “Log in” button to access the application.
 
-![log_in.png](../img/log_in.png)
+![log_in.png](../guide/img/log_in.png)
 
 ### Search knowledge
 
 - Overview knowledge base content, e.g., case list (only knowledge manager can add, edit and delete these cases).
 
-![case_list.png](../img/case_list.png)
+![case_list.png](../guide/img/case_list.png)
 
 - Use classification filter to clarify target OSC knowledge domains (function to be added).
 - Enter queries to search and retrieve knowledge from the knowledge base.
 
-![case_searching.png](../img/case_searching.png)
+![case_searching.png](../guide/img/case_searching.png)
 
 Currently, the system match target knowledge by using key words reasoning.
 
@@ -51,7 +51,7 @@ Currently, the system match target knowledge by using key words reasoning.
 - Check recommended knowledge in the response box.
 - Select proper knowledge to use in specific project scenarios (e.g., calculate the functional design efficiency of an OSC product assembly).
 
-![case_detials.png](../img/case_detials.png)
+![case_detials.png](../guide/img/case_detials.png)
 
 ### Add and edit learning logs
 
@@ -60,11 +60,11 @@ Users can add and edit their own learning notes that can be private and public e
 - Use “Add a new entry” button to add a new learning log under specific topic.
 - Use “Edit entry” button to make any change in existing learning logs.
 
-![add_learning_log.png](../img/add_learning_log.png)
+![add_learning_log.png](../guide/img/add_learning_log.png)
 
 - Save changes after editing the knowledge entry.
 
-![isave_learning_log.png](../img/save_learning_log.png)
+![isave_learning_log.png](../guide/img/save_learning_log.png)
 
 - (Coming soon) Use “share” button to get knowledge open or collaborate with specific users.
 
@@ -72,7 +72,7 @@ Users can add and edit their own learning notes that can be private and public e
 
 - Use “Logout” button to sign out.
 
-![sign_out.png](../img/sign_out.png)
+![sign_out.png](../guide/img/sign_out.png)
 
 ## Knowledge manager’s guide
 
@@ -85,7 +85,7 @@ Knowledge manager can add documents containing authorised knowledge contents, su
 - Upload authorised knowledge documents (e.g., standards, qualified handbook, etc.)
 - Add or generate meta data to uploaded documents for knowledge matching and retrieval.
 
-![upload_documents.png](../img/upload_documents.png)
+![upload_documents.png](../guide/img/upload_documents.png)
 
 ### Parse and analyse the knowledge content
 
@@ -93,15 +93,15 @@ To further structuring the knowledge content into a knowledge unit, knowledge ma
 
 - Add new cases
 
-![add_cases.png](../img/add_cases.png)
+![add_cases.png](../guide/img/add_cases.png)
 
 - Edit existing cases
 
-![edit_case.png](../img/edit_case.png)
+![edit_case.png](../guide/img/edit_case.png)
 
 - Delete existing cases
 
-![delete_case.png](../img/delete_case.png)
+![delete_case.png](../guide/img/delete_case.png)
 
 ### Model and configure knowledge unit (advanced usage)
 
@@ -114,13 +114,13 @@ This step is currently out of this platform and conducted in Protege, a free and
 
 This knowledge platform use Apache Jena Fuseki to manage RDF data and provide basic functions for adding triples and making SPARQL queries.
 
-![rdf_database.png](../img/rdf_database.png)
+![rdf_database.png](../guide/img/rdf_database.png)
 
-![add_triples.png](../img/add_triples.png)
+![add_triples.png](../guide/img/add_triples.png)
 
-![rdf_query.png](../img/rdf_query.png)
+![rdf_query.png](../guide/img/rdf_query.png)
 
-![query_results.png](../img/query_results.png)
+![query_results.png](../guide/img/query_results.png)
 
 ## Super Administrator’s guide
 
@@ -128,11 +128,11 @@ This knowledge platform use Apache Jena Fuseki to manage RDF data and provide ba
 
 SuperAdmin can set groups and users and their permissions.
 
-![authorisation_group.png](../img/authorisation_group.png)
+![authorisation_group.png](../guide/img/authorisation_group.png)
 
-![authorisation_user.png](../img/authorisation_user.png)
+![authorisation_user.png](../guide/img/authorisation_user.png)
 
 ### Application objects configuration
 
 SuperAdmin can create and configure knowledge objects for the knowledge base.
-![backend_configuration.png](../img/backend_configuration.png)
+![backend_configuration.png](../guide/img/backend_configuration.png)

@@ -28,6 +28,6 @@ The proposed solution can be expanded to other types of construction (e.g., brid
 Let's see our systematic review of knowledge management for offsite construction:
 
 {{< cards >}}
-  {{< card url="km-for-osc-review" title="Review: Knowledge Management for Offsite Construction" icon="document-duplicate" >}}
+  {{< card url="publications/km-for-osc-review" title="Review: Knowledge Management for Offsite Construction" icon="document-duplicate" >}}
   {{< card url="configuration" title="Integrated KBS" icon="document-duplicate" >}}
 {{< /cards >}}

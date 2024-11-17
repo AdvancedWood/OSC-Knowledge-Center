@@ -1,6 +1,6 @@
 ---
-title: Nvidia
-summary: nvidia.com
-external_link: https://research.nvidia.com/labs/toronto-ai/
+title: OSC case
+summary: example.com
+external_link: https://eample.com
 date: 2024-02-17
 ---

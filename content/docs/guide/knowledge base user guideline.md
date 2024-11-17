@@ -1,5 +1,6 @@
 ---
 title: KB user guideline
+url: content/docs/guide/knowledge base user guideline
 weight: 1
 ---
 

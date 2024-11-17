@@ -16,7 +16,7 @@ sections:
         <span style="color: white">Improving performance and collaboration for offsite construction through learning from projects and knowledge reuse by using an integrated open OSC knowledge base</span>
       primary_action:
         text: About the project
-        url: project-summary
+        url: content/docs/project-summary
         icon: rocket-launch
     design:
       spacing:
@@ -36,18 +36,15 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "Product"
+        - statistic: "<span style='font-size: 36px; line-height: 2;'>Technology</span>"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "Process"
+            Knowledge management systems to enable the knowledge process
+        - statistic: "<span style='font-size: 36px; line-height: 2;'>Process</span>"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "People"
+            Knowledge capture, modelling, sharing, learning, and reuse
+        - statistic: "<span style='font-size: 36px; line-height: 2;'>People</span>"
           description: |
-            Discord community  
-            for support
+            Behaviour and culture change of organisations
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-800"

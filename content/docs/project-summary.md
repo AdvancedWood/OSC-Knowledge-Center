@@ -1,5 +1,6 @@
 ---
 title: Project Summary
+url: content/docs/project-summary
 date: 2024-02-17
 weight: 1
 ---
@@ -22,4 +23,3 @@ The project will support the circular construction and circular economies, by ca
 Develop of a long-term roadmap to grow the consortium, make the research outputs available to and benefit the whole NZ construction sector.
 The optimised open knowledge base and best practice guideline can improve the performance and efficiency of OSC projects (i.e., decreased cost, time and risk).
 The proposed solution can be expanded to other types of construction (e.g., bridges).
-

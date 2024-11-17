@@ -10,31 +10,27 @@ design:
 sections:
   - block: hero
     content:
-      title: A Knowledge Platform for Offsite Construction (OSC)
-      text: Improving performance and collaboration for offsite construction through learning from projects and knowledge reuse by using an integrated open OSC knowledge base
+      title: |
+        <span style="color: white">A Knowledge Platform for Offsite Construction (OSC)</span>
+      text: |
+        <span style="color: white">Improving performance and collaboration for offsite construction through learning from projects and knowledge reuse by using an integrated open OSC knowledge base</span>
       primary_action:
         text: About the project
-        url: https://oscknowledgenz.wordpress.com/about/
+        url: /docs/project-summary
         icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: /docs/
-      announcement:
-        text: "Announcing the release of version 2."
-        link:
-          text: "Read more"
-          url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: ""
+      style:
+        text-color: white
       background:
         color: ""
         image:
           # Add your image background to `assets/media/`.
-          filename: ""
+          filename: "background.webp"
           filters:
             brightness: 0.5
   - block: stats
@@ -84,8 +80,8 @@ sections:
           description: How do we manage the OSC projects?
   - block: cta-card
     content:
-      title: "Start Writing with the #1 Effortless Documentation Platform"
-      text: Hugo Blox Docs Theme brings all your technical knowledge together in a single, centralized knowledge base. Easily search and edit it with the tools you use every day!
+      title: "Start Using Our OSC Knowledge Base"
+      text: It brings all your technical knowledge together in a single, centralized knowledge base. Easily search and reuse it every day!
       button:
         text: Get Started
         url: https://hugoblox.com/templates/details/docs/

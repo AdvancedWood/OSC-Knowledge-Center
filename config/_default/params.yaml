@@ -8,6 +8,20 @@ appearance:
   mode: light
   color: blue
 
+  # 自定义 CSS 变量
+  custom_css:
+    # 日间模式变量
+    light:
+      background: "#ffffff"
+      foreground: "#000000"
+      primary: "#1565c0"
+      
+    # 夜间模式变量  
+    dark:
+      background: "#1a1a1a"
+      foreground: "#ffffff"
+      primary: "#42a5f5"
+
 # SEO
 marketing:
   seo:
@@ -40,7 +54,7 @@ header:
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
     button:
-      enable: true
+      enable: false
       text: "Get Started"
       url: "https://hugoblox.com/templates/details/docs/"
     show_search: true

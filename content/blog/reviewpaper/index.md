@@ -11,6 +11,7 @@ tags:
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
+_We are excited to share that we have a new review paper published in Elsevier journal of Automation in Construction. This paper investigates a systematic review to understand knowledge management for offsite construction._
 
 ## Abstract
 
@@ -24,4 +25,4 @@ By using the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-A
 
 The outcomes reported in this paper holds promises for extending the current knowledge and gaining a systematic understanding of KM for OSC. In details, the results are summarised and discussed comprehensively to shed light on three aspects: (1) the state-of-the-art KM approaches for OSC, (2) the key OSC knowledge domains for succeeding in projects, and (3) the research gaps and future opportunities in this area. Additionally, according to the discussion, this review also indicates that emerging artificial intelligence (AI) technologies have markable potential to promote KM for automatic OSC processes, which can be referred to drive the future research efforts.
 
-For more information, see here.
+- For more information, see [here](https://doi.org/10.1016/j.autcon.2024.105632).

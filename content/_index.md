@@ -38,7 +38,8 @@ sections:
       items:
         - statistic: "<span style='font-size: 36px; line-height: 2;'>Technology</span>"
           description: |
-            Knowledge management systems to enable the knowledge process
+            Knowledge management systems (KBS)  
+            to enable the knowledge process
         - statistic: "<span style='font-size: 36px; line-height: 2;'>Process</span>"
           description: |
             Knowledge capture, modelling, sharing, learning, and reuse

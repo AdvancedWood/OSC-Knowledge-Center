@@ -11,9 +11,9 @@ sections:
       title: Case Study
       text: 'Get lessons learned by exploring problem-solving-oriented case studies'
       primary_action:
-        icon: plus
-        text: Submit Your Case
-        url: "https://twitter.com/intent/tweet?text=I%27m%20creating%20a%20beautiful%20website%20using%20the%20free%20%E2%9D%A4%EF%B8%8F%2C%20open%20source%20Hugo%20Blox%20Website%20Builder%20for%20%40GoHugoIO%20by%20%40GeorgeCushen%20%40GetResearchDev%20%E2%9C%A8%20Have%20some%20feedback%3F%20Please%20comment%20%F0%9F%A4%97&hashtags=MadeWithHugoBlox&url=https://HugoBlox.com/"
+        icon: brands/linkedin
+        text: Submit Your Case by Contact Us
+        url: "https://www.linkedin.com/in/offsite-construction-knowledge-hub-6bb1b2339/"
       secondary_action:
         text: See how to use the knowledge base
         url: content/docs/guide/knowledge-base-user-guideline.md

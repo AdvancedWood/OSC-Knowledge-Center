@@ -3,6 +3,9 @@ title: KM for OSC Review
 date: 2024-02-17
 weight: 1
 ---
+
+![coverimg.png](../img/review_abstract.png)
+
 ## Abstract
 
 Knowledge management (KM) plays a key role in leveraging benefits of offsite construction (OSC) by improving collaboration and knowledge reuse from previous successful OSC projects and promoting the automation of OSC processes in the future. However, there is still no study to review the current research on KM for OSC. In this paper, we conducted a systematic review to explore and expand the current best knowledge of KM for OSC from a comprehensive perspective. Specifically, we explored:

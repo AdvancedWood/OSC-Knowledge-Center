@@ -23,11 +23,3 @@ Develop of a long-term roadmap to grow the consortium, make the research outputs
 The optimised open knowledge base and best practice guideline can improve the performance and efficiency of OSC projects (i.e., decreased cost, time and risk).
 The proposed solution can be expanded to other types of construction (e.g., bridges).
 
-## Next
-
-Let's see our systematic review of knowledge management for offsite construction:
-
-{{< cards >}}
-  {{< card url="/publications/km-for-osc-review" title="KM for OSC Review" icon="document-duplicate" >}}
-  {{< card url="/guide/configuration" title="Configuration" icon="adjustments-vertical" >}}
-{{< /cards >}}

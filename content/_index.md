@@ -16,7 +16,7 @@ sections:
         <span style="color: white">Improving performance and collaboration for offsite construction through learning from projects and knowledge reuse by using an integrated open OSC knowledge base</span>
       primary_action:
         text: About the project
-        url: https://advancedwood.github.io/OSC-Knowledge-Center/docs/project-summary/
+        url: /docs/project-summary/
         icon: rocket-launch
     design:
       spacing:

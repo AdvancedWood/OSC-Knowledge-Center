@@ -16,7 +16,7 @@ sections:
         <span style="color: white">Improving performance and collaboration for offsite construction through learning from projects and knowledge reuse by using an integrated open OSC knowledge base</span>
       primary_action:
         text: About the project
-        url: /docs/project-summary/
+        url: Project Summary
         icon: rocket-launch
     design:
       spacing:

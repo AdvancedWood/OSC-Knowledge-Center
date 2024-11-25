@@ -17,4 +17,7 @@ main:
   - name: Community
     url: community/
     weight: 50
+  - name: AI Agent
+    url: https://u0b0i3.axshare.com/?id=hatlsc&g=4
+    weight: 60
 

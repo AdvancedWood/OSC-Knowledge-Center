@@ -4,7 +4,7 @@ date: 2025-01-17
 weight: 1
 ---
 
-![coverimg.png](../img/knowledge container.png)
+![knowledge_container.png](../img/knowledge_container.png)
 
 ## Abstract
 

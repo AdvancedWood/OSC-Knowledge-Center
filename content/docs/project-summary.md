@@ -6,7 +6,9 @@ weight: 1
 ---
 
 ## Project title
-__Improving Performance and Collaboration for Offsite Construction through Learning from Projects and Knowledge Reuse (funded by BRANZ and led by University of Auckland)__
+__Improving Performance and Collaboration for Offsite Construction through Learning from Projects and Knowledge Reuse__
+
+This project is funded by BRANZ (Building Research Association of New Zealand) and led by the University of Auckland, with the collaboration of Auckland University of Technology, Victoria University of Wellington, and University of Canterbury. The project is expected to run from 2024 to 2026. See [here](https://www.branz.co.nz/investing-research/research-portfolio/contact-us/272-improving-knowledge-reuse-between-offsite-construction-projects/)
 
 ## Industrial problem
 Housing affordability and supply has become a recognised challenge in New Zealand (NZ) and internationally. To overcome this challenge, offsite construction (OSC) also known as prefabricated construction, modular construction, or offsite manufacturing, has been increasingly adopted. It refers to the construction of buildings and components offsite in a factory, which are then transported to the sites where they are needed, which is approached by advantages including increased productivity, shortening of construction time, and reduced labour and material wastage.

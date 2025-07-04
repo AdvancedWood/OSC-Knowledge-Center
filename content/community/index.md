@@ -24,7 +24,7 @@ pager: false
 </div>
 
 <div class="card">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/University_of_Canterbury_logo.svg/220px-University_of_Canterbury_logo.svg.png" alt="University of Canterbury Logo" class="card-img" width="100" height="100">
+  <img src="  https://www.canterbury.ac.nz/content/uoc-main-site…e.coreimg.jpeg/1689207686734/coat-of-arms-uc.jpeg" alt="University of Canterbury Logo" class="card-img" width="100" height="100">
   <div class="card-content">
     <a href="https://www.canterbury.ac.nz/">University of Canterbury</a> —— Serving communities in New Zealand and the world for 150 years, ranking in the top 2% of universities worldwide.
   </div>
@@ -54,7 +54,7 @@ pager: false
 </div>
 
 <div class="card">
-  <img src="https://www.hera.org.nz/wp-content/uploads/Hera-Logo.png" alt="HERA Home Logo" class="card-img" width="150">
+  <img src="  https://www.issa.co.nz/wp-content/uploads/2023/09/HERAlogo_WITH_Tagline_Colour.png" alt="HERA Home Logo" class="card-img" width="150">
   <div class="card-content">
     <a href="https://www.hera.org.nz/">HERA Home</a> ——  Focusing on making sure our NZ metals industry is looking forward and prepared for the future.
   </div>

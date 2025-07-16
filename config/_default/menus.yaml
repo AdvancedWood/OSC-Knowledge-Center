@@ -17,7 +17,7 @@ main:
   - name: Community
     url: community/
     weight: 50
-  - name: AI Agent
-    url: https://kbs-app.loca.lt/design-assistant
+  - name: AI Assistant
+    url: https://12155622d3b9.ngrok-free.app/design-assistant
     weight: 60
 

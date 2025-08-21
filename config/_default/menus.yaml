@@ -18,6 +18,6 @@ main:
     url: community/
     weight: 50
   - name: AI Assistant
-    url: https://12155622d3b9.ngrok-free.app/design-assistant
+    url: http://localhost:8080/design-assistant
     weight: 60
 

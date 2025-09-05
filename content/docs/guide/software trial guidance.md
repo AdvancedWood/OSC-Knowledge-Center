@@ -13,7 +13,7 @@ In this task, you can get familiar with offsite construction (OSC) by asking som
 
 Then, you will get similar response shown in **Figure 3**. Referred knowledge sources will also be provided for reliability concerns. You can also modify the relevance of referred knowledge sources to be retrieved.
 
-<img src="img/task1.png" alt="task1.png" style="margin-bottom: 5px;">
+![An example of system response to general questions](../img/task1.png)
 **Figure 3.** An example of system response to general questions
 
 It is your turn now. Please ask the rest of questions to learn more about OSC.

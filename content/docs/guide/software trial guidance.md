@@ -7,6 +7,6 @@ By using this prototype system, you can learn related knowledge and explore any 
 
 ## Task 1: Ask general questions
 
-In this task, you can get familiar with offsite construction (OSC) by asking some general questions. For example, at user page, you can simply ask in the chat box at bottom and click “!send.png](img/send.png)” on the right.
+In this task, you can get familiar with offsite construction (OSC) by asking some general questions. For example, at user page, you can simply ask in the chat box at bottom and click “![send.png](img/send.png)” on the right.
 
 

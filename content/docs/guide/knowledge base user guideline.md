@@ -1,6 +1,6 @@
 ---
-title: KB user guideline
-weight: 1
+title: KB user guideline (canceled)
+weight: 2
 ---
 
 ## Overview

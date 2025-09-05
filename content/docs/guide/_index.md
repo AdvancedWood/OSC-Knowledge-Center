@@ -9,11 +9,11 @@ OSC is deemed as a promising approach to enhance productivity, affordability, an
 
 Recent advances in LLMs offers new opportunities for intelligent knowledge retrieval [3]. However, existing LLMs cannot adequately support reasoning across heterogeneous, evolving and dynamic project contexts [4]. This gap can be addressed by combining structured knowledge graphs (KGs) with LLMs to enable context-aware knowledge reasoning. For example, as shown in Figure 1, KGs offer a means to represent entities and relationships explicitly, enabling improved reasoning over unstructured textual data [5].
 
-![llms_for_reasoning_on_structured_knowledge.png](../img/llms_for_reasoning_on_structured_knowledge.png)
+![llms_for_reasoning_on_structured_knowledge.png](img/llms_for_reasoning_on_structured_knowledge.png)
 
 To comprehensively utilise all knowledge within unstructured text corpus and structure KGs, this system combines both with LLMs to answer questions (see Figure 2). Users can flexibly retrieve them for getting general or specific knowledge in different scenarios. You will have chance to try different modes for getting enhanced and accurate response from LLMs, for example, using unstructured knowledge retrieved from documents for general questions or using structured knowledge retrieved from KGs for specific design cases.
 
-![unified_knowledge_representation.png](../img/unified_knowledge_representation.png)
+![unified_knowledge_representation.png](img/unified_knowledge_representation.png)
 
 Reference
 [1]	Z. Zhang, Y. Zou, B.H.W. Guo, J. Dimyadi, R. Davies, L. Jiang, Knowledge management for off-site construction, Autom. Constr. 166 (2024) 105632. https://doi.org/10.1016/j.autcon.2024.105632.

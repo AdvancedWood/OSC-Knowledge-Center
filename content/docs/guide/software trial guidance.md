@@ -9,4 +9,8 @@ By using this prototype system, you can learn related knowledge and explore any 
 
 In this task, you can get familiar with offsite construction (OSC) by asking some general questions. For example, at user page, you can simply ask in the chat box at bottom and click “![send.png](img/send.png)” on the right.
 
+(1) *How much time can be saved by using modular construction method?*
+
+Then, you will get similar response shown in Figure 3. Referred knowledge sources will also be provided for reliability concerns. You can also modify the relevance of referred knowledge sources to be retrieved.
+
 

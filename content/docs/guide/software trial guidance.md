@@ -13,7 +13,8 @@ In this task, you can get familiar with offsite construction (OSC) by asking som
 
 Then, you will get similar response shown in **Figure 3**. Referred knowledge sources will also be provided for reliability concerns. You can also modify the relevance of referred knowledge sources to be retrieved.
 
-![task1.png](../img/task1.png) **Figure 3.** An example of system response to general questions
+<img src="img/task1.png" alt="task1.png" style="margin-bottom: 5px;">
+**Figure 3.** An example of system response to general questions
 
 It is your turn now. Please ask the rest of questions to learn more about OSC.
 
@@ -21,6 +22,11 @@ It is your turn now. Please ask the rest of questions to learn more about OSC.
 (3)	*How could efficiency and feasibility of offsite construction projects be impacted?*
 (4)	*Why are connections important in modular construction?*
 
+## Task 2: Get recommendations for reusable connection design
 
+A feature of this system is embedded structured knowledge, which can handle the knowledge about specific construction objects. For example, you can follow the steps shown in Figure 4 to get recommendations for reusable connections designed by previous studies and projects.
+
+
+Figure 4. Ask about specific concepts
 
 

@@ -16,7 +16,7 @@ sections:
         url: "https://www.linkedin.com/in/offsite-construction-knowledge-hub-6bb1b2339/"
       secondary_action:
         text: See how to use the knowledge base
-        url: ../content/docs/guide/
+        url: "https://advancedwood.github.io/OSC-Knowledge-Center/docs/guide/"
     design:
       no_padding: true
       spacing:

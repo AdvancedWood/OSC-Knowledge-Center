@@ -82,7 +82,7 @@ sections:
       text: It brings all your technical knowledge together in a single, centralized knowledge base. Easily search and reuse it every day!
       button:
         text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
+        url: https://advancedwood.github.io/OSC-Knowledge-Center/docs/guide/
     design:
       card:
         # Card background color (CSS class)

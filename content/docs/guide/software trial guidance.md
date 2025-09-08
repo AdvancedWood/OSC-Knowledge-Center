@@ -68,7 +68,7 @@ In the “Document Sources” part, click “View Document” to see the visuali
 
 ## Feedback
 
-The usability of this system is going to be evaluated using a standard questionnaire. Please use this link to provide your feedback and comment: https://redcap.auckland.ac.nz/surveys/?s=JWERKPW7CED3X9XM. Let's improve knoweldge sharing and reuse for offsite construction together!
+The usability of this system is going to be evaluated using a standard questionnaire. Please use this link to provide your feedback and comment: https://redcap.auckland.ac.nz/surveys/?s=JWERKPW7CED3X9XM. First 30 completions will be able to get a Woolworth eGift card (NZD$20). Let's improve knoweldge sharing and reuse for offsite construction together!
 
 ## Acknowledgement
 

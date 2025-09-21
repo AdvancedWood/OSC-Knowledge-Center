@@ -17,8 +17,6 @@ To comprehensively utilise all knowledge within unstructured text corpus and str
 ![unified_knowledge_representation.png](img/unified_knowledge_representation.png)
 **Figure 2.** Unified knowledge representation
 
-Please use this link to book a 30min slot for [your software trial](https://outlook.office.com/bookwithme/user/4d99e9835c184fb28df50fd099f7f400@UoA.auckland.ac.nz/meetingtype/lSuSWxjISE2cer7qSsq9og2?bookingcode=522bd089-03e0-403c-849f-67e3a3ee809e&anonymous&ismsaljsauthenabled&ep=mLinkFromTile). You can select any period for your convenience. If you want to change the booked time, please simply select the new time available.
-
 To start the trial, go to our [step-by-step guidance](https://advancedwood.github.io/OSC-Knowledge-Center/docs/guide/software-trial-guidance/).
 
 

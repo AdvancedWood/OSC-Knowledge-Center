@@ -11,7 +11,7 @@ By using this prototype system, you can learn related knowledge and explore any 
 
 In this task, you can get familiar with offsite construction (OSC) by asking some general questions. For example, at user page, you can simply ask in the chat box at bottom and click send bottom on the right.
 
-(1) *How much time can be saved by using modular construction method?*
+#### (1) *How much time can be saved by using modular construction method?*
 
 Then, you will get similar response shown in **Figure 3**. Referred knowledge sources will also be provided for reliability concerns. You can also modify the relevance of referred knowledge sources to be retrieved.
 
@@ -20,9 +20,11 @@ Then, you will get similar response shown in **Figure 3**. Referred knowledge so
 
 It is your turn now. Please ask the rest of questions to learn more about OSC.
 
-(2)	*What is offsite construction?*
-(3)	*How could efficiency and feasibility of offsite construction projects be impacted?*
-(4)	*Why are connections important in modular construction?*
+#### (2) *What is offsite construction?*
+
+#### (3) *How could efficiency and feasibility of offsite construction projects be impacted?*
+
+#### (4) *Why are connections important in modular construction?*
 
 ## Task 2: Get recommendations for reusable connection design
 
@@ -39,27 +41,27 @@ Simply use the search box at the top of Context Configurator at left side and ty
 
 You can decide the knowledge types to be used. In default, unstructured knowledge will be limited to selected concepts, which is recommended for better attention of LLMs. In this mode, ask a specific question about the selected concept to see the response:
 
-(5)	*How is the inter-module connection classified?*
+#### (5) *How is the inter-module connection classified?*
 
 **_Step 3: Get reusable cases for specific project requirements_**
 
 Then, you can explore purely structured knowledge to get more specific recommendations based on given project context. Click the checkbox “Only use structured knowledge” and ask following questions to see the response:
 
-(6)	*How many inter-module connection design options here in the knowledge base? Give illustration for each of them.*
+#### (6) *How many inter-module connection design options here in the knowledge base? Give illustration for each of them.*
 
-(7)	*Recommend me some cases for ease of assembly on-site and better disassembly when repair.*
+#### (7) *Recommend me some cases for ease of assembly on-site and better disassembly when repair.*
 
-(8)	*Recommend me some cases that adopt plugin device as part of the connection.*
+#### (8) *Recommend me some cases that adopt plugin device as part of the connection.*
 
 ## Task 3: Explore more details based on recommended design cases
 
 The system provides you with related concepts that have been embedded in the knowledge base. For example, search “Option1” according to the answer from the step 3 in task 2 for a more detailed exploration. When you apply this concept to enhancement, send the system this query to see the response:
 
-(9)	*Describe the configuration of the inter-modular connection design option1.*
+#### (9) *Describe the configuration of the inter-modular connection design option1.*
 
 In addition, if you want some supplementary unstructured knowledge such as drawings of this case, simply cancel the check box “Only use structured knowledge” and the system will automatically involve related documents back to the context. Then, you can ask:
 
-(10) *Any picture or drawing about the details of connection option1?*
+#### (10) *Any picture or drawing about the details of connection option1?*
 
 In the “Document Sources” part, click “View Document” to see the visualised illustrations (see **Figure 5**).
 
